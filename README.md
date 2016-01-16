@@ -1,3 +1,5 @@
-# Set up readme in Gitbook
+# Book for creating a _Usurier_ web app for intermediate Ruby (on Rails) developers
 
-# Add in readme with Desktop Gitbook Editor on master branch  
+## Note:
+### Master branch for this project is no longer the default branch
+### gh-pages is now the default branch
